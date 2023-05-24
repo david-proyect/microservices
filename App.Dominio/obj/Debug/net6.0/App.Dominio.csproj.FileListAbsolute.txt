@@ -1,0 +1,17 @@
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.Dominio.deps.json
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.Dominio.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.Dominio.pdb
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.Transversal.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.Transversal.pdb
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.csproj.AssemblyReference.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.AssemblyInfoInputs.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.AssemblyInfo.cs
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.csproj.CoreCompileInputs.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.csproj.CopyComplete
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\refint\App.Dominio.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\App.Dominio.pdb
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\obj\Debug\net6.0\ref\App.Dominio.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.AccesoData.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Dominio\bin\Debug\net6.0\App.AccesoData.pdb

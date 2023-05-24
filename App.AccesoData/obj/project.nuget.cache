@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sm4D2lE9bk4doWV1zDsojNy8VyLmlH2P9ijumn7CXEO5Ex/ssEWxZvQTrM+J12rgoFWXfdIDOy77U4RNXXOVAA==",
+  "success": true,
+  "projectFilePath": "C:\\Estudio Frontend\\BACKEND\\MCS-PRODUCTS\\mcs-productus\\App.AccesoData\\App.AccesoData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.sanchez\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

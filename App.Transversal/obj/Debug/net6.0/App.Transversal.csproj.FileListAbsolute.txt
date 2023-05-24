@@ -1,0 +1,12 @@
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\bin\Debug\net6.0\App.Transversal.deps.json
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\bin\Debug\net6.0\App.Transversal.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\bin\Debug\net6.0\App.Transversal.pdb
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.csproj.AssemblyReference.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.AssemblyInfoInputs.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.AssemblyInfo.cs
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.csproj.CoreCompileInputs.cache
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\refint\App.Transversal.dll
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\App.Transversal.pdb
+C:\Estudio Frontend\BACKEND\MCS-PRODUCTS\mcs-productus\App.Transversal\obj\Debug\net6.0\ref\App.Transversal.dll
